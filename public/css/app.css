@@ -1,0 +1,20 @@
+/*body{
+    margin:0;
+
+}
+
+.nav {
+    background-color: yellow;
+    padding: 0;
+    margin: 0;
+
+}*/
+
+.container{
+    max-width: 800px; 
+    margin: auto;
+}
+
+.text-gray{
+    color: gray;
+}
